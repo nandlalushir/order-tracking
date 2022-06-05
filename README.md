@@ -1,6 +1,6 @@
 This repo contain source codes for a React Table CRUD application with RESTful API Data.
 
-## Below some of the features are vailable 
+## Below some of the features are available 
  Create
  Edit
  Delete
