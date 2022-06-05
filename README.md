@@ -1,4 +1,12 @@
-This repo contain source codes for a React Material-Table CRUD application with RESTful API Data.
+This repo contain source codes for a React Table CRUD application with RESTful API Data.
+
+## Below some of the features are vailable 
+ Create
+ Edit
+ Delete
+ Search
+ Re-ordered records
+ 
 
 ## Available Scripts
 
